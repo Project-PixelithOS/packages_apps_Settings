@@ -15590,4 +15590,6 @@
     <!-- Search keywords for Human interface device access setting -->
     <string name="keywords_access_hid">hid, human, access, device</string>
     <!-- Access HID end -->
+    <!-- Pixelith version (About phone) -->
+    <string name="pixelith_version">Pixelith version</string>
 </resources>
